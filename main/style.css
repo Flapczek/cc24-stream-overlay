@@ -105,9 +105,11 @@ html {
 }
 
 .team-flag {
-	width: 70px;
-	height: 47px;
-	background-image: url('https://a.ppy.sh/');
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+	background-size: cover;
+	background-image: url('../_shared/assets/flags/XXX.png');
 }
 
 .team-name {

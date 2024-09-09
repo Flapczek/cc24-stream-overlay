@@ -1,94 +1,24 @@
 [
     {
-        "team": "Argentina",
-        "flag": "AR",
-        "seed": 25,
+        "team": "maliszewski",
+        "flag": "MAL",
+        "seed": 1,
         "players": [
             {
-                "id": 3272902,
-                "username": "juliancala",
-                "captain": false
-            },
-            {
-                "id": 18922516,
-                "username": "viciobylike",
-                "captain": false
-            },
-            {
-                "id": 3608846,
-                "username": "SlowBurn",
-                "captain": false
-            },
-            {
-                "id": 7119659,
-                "username": "Amuro",
-                "captain": false
-            },
-            {
-                "id": 12902737,
-                "username": "AlexKito",
-                "captain": false
-            },
-            {
-                "id": 7807935,
-                "username": "Kaoshii",
-                "captain": false
-            },
-            {
-                "id": 10459580,
-                "username": "Kagami",
-                "captain": true
-            },
-            {
                 "id": 12301126,
-                "username": "FD3S 13B-REW",
+                "username": "",
                 "captain": false
             }
         ]
     },
     {
-        "team": "Austria",
-        "flag": "AT",
-        "seed": -1,
+        "team": "flapczek",
+        "flag": "flapczek",
+        "seed": 2,
         "players": [
             {
-                "id": 17709282,
-                "username": "-Toketsu",
-                "captain": false
-            },
-            {
-                "id": 21753287,
-                "username": "Deshoou",
-                "captain": false
-            },
-            {
-                "id": 21285251,
-                "username": "awhi",
-                "captain": true
-            },
-            {
-                "id": 12807415,
-                "username": "Tuffy",
-                "captain": false
-            },
-            {
-                "id": 2583259,
-                "username": "[ Neon ]",
-                "captain": false
-            },
-            {
-                "id": 9468744,
-                "username": "rixope",
-                "captain": false
-            },
-            {
-                "id": 1009285,
-                "username": "gadse",
-                "captain": false
-            },
-            {
-                "id": 18024782,
-                "username": "punjabi_gaming",
+                "id": 734957,
+                "username": "",
                 "captain": false
             }
         ]

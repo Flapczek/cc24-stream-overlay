@@ -3,7 +3,7 @@ html {
 	padding: 0;
 	margin: 0;
 	overflow-y: hidden;
-	font-family: 'Din';
+	font-family: 'Cream Opera';
 }
 
 .main {
@@ -21,18 +21,6 @@ html {
 	font-size: 2rem;
 }
 
-.logo {
-	position: absolute;
-	top: 40px;
-	right: 40px;
-	width: 200px;
-	height: 100px;
-	background-image: url('../_shared/assets/logo_light_512.png');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: contain;
-}
-
 .title {
 	font-style: italic;
 }
@@ -42,22 +30,24 @@ html {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	gap: 12px;
+	gap: 0px;
 }
 
 .teams {
 	display: flex;
+	align: center;
 	color: var(--light);
 }
 
 .team {
 	display: flex;
 	flex-direction: column;
-	gap: 8px;
+	gap: 3px;
 }
 
 .vs {
-	padding: 0 24px;
+	padding: 20px;
+	align: center;
 	line-height: 3rem;
 	font-style: italic;
 }
@@ -71,42 +61,23 @@ html {
 	gap: 18px;
 }
 
-.showcase {
-	font-weight: 700;
-	font-size: 3rem;
-	color: var(--light);
-	display: none;
-}
-
 .team.blue {
 	align-items: flex-end;
-	text-align: right;
+	text-align: justify;
 }
 
 .team-flag {
-	width: 70px;
-	height: 47px;
+	width: 80px;
+	height: 80px;
+	border-radius: 5px;
+	background-size: cover;
 	background-image: url('../_shared/assets/flags/XX.png');
 }
 
-.team-players {
-	display: flex;
-	flex-direction: column;
-	gap: 2px;
-	font-size: 1.6rem;
-}
-
-.team-players.red {
-	padding-left: calc(70px + 18px);
-}
-
-.team-players.blue {
-	padding-right: calc(70px + 18px);
-}
-
 .timer {
+	position: absolute;
+	top: 600px;
 	font-size: 3rem;
-	margin-top: 12px;
 	letter-spacing: 2px;
 	font-weight: 700;
 }

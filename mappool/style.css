@@ -13,7 +13,7 @@ html {
     margin: 0;
     /* overflow-y: hidden; */
     user-select: none;
-    font-family: 'Din';
+    font-family: 'Cream Opera';
 }
 
 .main {
@@ -111,7 +111,7 @@ html {
     width: calc(var(--mod-width) - 2 * 12px);
     border: 2px solid var(--border-default);
     padding: 2px;
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     letter-spacing: 1px;
     font-weight: 700;
     background-color: var(--border-banned);

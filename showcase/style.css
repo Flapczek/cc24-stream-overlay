@@ -16,7 +16,7 @@ html {
 	width: var(--width);
 	height: var(--height);
 	color: var(--light);
-	font-family: 'Din', Arial, Helvetica, sans-serif;
+	font-family: 'Cream Opera';
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
